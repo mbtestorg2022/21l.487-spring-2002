@@ -364,7 +364,7 @@ Auden. "[Shield of Achilles](https://www.poets.org/poetsorg/poem/shield-achilles
   
 Conquest. "Roqueby Venus." (354). ([download](http://www2.bc.edu/~dohertyp/web_site/rokeby.htm) a version of this work from Boston College)  
   
-Ashbery. "Instruction Manual." (419). (download a version of this work from Rice (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-ece.rice.edu/~dhj/dialog.pdf)))
+Ashbery. "Instruction Manual." (419). (download a version of this work from Rice ([PDF](http://www-ece.rice.edu/~dhj/dialog.pdf)))
 {{< tdclose >}}
 
 {{< trclose >}}
